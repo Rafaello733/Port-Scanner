@@ -9,6 +9,8 @@ Download the "port_scaner.zip" file and unpack it.
 
 
 # Installation on Linux:
+```
 git clone https://github.com/Rafaello733/Port-Scanner.git
 cd Port-Scanner/
 python3 port-scanner.py
+```
