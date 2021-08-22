@@ -2,10 +2,10 @@
 The port scanner is a program that checks (are they open) a certain number of ports on a given ip address or domein (Google.com)
 
 # Usage:
-Open "```port_scaner.py```" and follow the steps.
+Open ```port_scaner.py"``` and follow the steps.
 
 # Installation on Windows:
-Download the "```port_scaner.zip```" file and unpack it.
+Download the ```"port_scaner.zip"``` file and unpack it.
 
 
 # Installation on Linux:
